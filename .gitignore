@@ -1,0 +1,9 @@
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+*.log
+*.pot
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
