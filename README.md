@@ -5,7 +5,7 @@
 3. `python3 -m venv virtualenv-name`
 4. cd `virtualenv-name`
 5. Clone the project
-6. `git clone https://gitlab.com/VictorChatterji/financepeer.git`
+6. `git clone git@github.com:VictorChatterji/financepeer-backend.git`
 7. cd `financepeer`
 8. Install the requirements
 9. `pip3 install -r requirements.txt`
